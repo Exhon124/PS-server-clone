@@ -147,8 +147,7 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 	},
 	{
 		name: "[Gen 9] Custom Game",
-		mod: 'gen9',
-		searchShow: false,
+		mod: 'champions',
 		debug: true,
 		battle: { trunc: Math.trunc },
 		// no restrictions, for serious (other than team preview)
